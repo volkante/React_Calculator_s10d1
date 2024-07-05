@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 const CalcButton = (props) => {
   const { value, onClick = (e) => {}, size = 4 } = props;
